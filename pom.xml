@@ -15,7 +15,7 @@
     </properties>
 
     <build>
-        <finalName>jenkin-docker-int</finalName>
+        <finalName>jenkin-docker-int:</finalName>
     </build>
 
 </project>
